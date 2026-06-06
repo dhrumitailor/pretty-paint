@@ -2,10 +2,6 @@
 
 Pretty Paint is a classic Paint-style graphics application developed in **C/C++ using the Turbo C++ BGI Graphics Library**. It provides an interactive drawing environment where users can create basic graphics using a mouse-driven interface, select colors, draw shapes, and save or load their artwork.
 
-## 📸 Screenshot
-
-![Pretty Paint Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - 🖱️ Mouse-based drawing interface
